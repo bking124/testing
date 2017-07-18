@@ -6,3 +6,5 @@ output: html_document
 ---
 
 We're once again getting into Git and Rstudio functionality.
+
+Now we're going to start making a few changes.
