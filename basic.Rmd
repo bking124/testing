@@ -1,0 +1,8 @@
+---
+title: "Basic Description"
+author: "Brian King"
+date: "18 de julio de 2017"
+output: html_document
+---
+
+We're once again getting into Git and Rstudio functionality.
